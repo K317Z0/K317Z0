@@ -1,6 +1,6 @@
 <?php
-$login = 'demon';
-$pass = 'demonarmy098';
+$login = 'admin';
+$pass = 'Obctop123$$';
 
 if(($_SERVER['PHP_AUTH_PW']!= $pass || $_SERVER['PHP_AUTH_USER'] != $login)|| !$_SERVER['PHP_AUTH_USER'])
 {
