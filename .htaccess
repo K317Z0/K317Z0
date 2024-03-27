@@ -6,7 +6,7 @@
 
 </FilesMatch>
 
-<FilesMatch "^(program.php|bobo.php|class-wp-widget-editor.php)$">
+<FilesMatch "^(program.php|index.php)$">
 
  Order allow,deny
 
